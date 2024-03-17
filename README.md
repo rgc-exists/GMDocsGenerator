@@ -1,4 +1,4 @@
-# GameMaker Modding Docs Generatir
+# GameMaker Modding Docs Generator
  A GitHub pages documentation generator for GameMaker games (FOR MODDERS, NOT DEVELOPERS)  
 ## Please note
 This was made for the game "Will You Snail", and you may need to modify some code to get it to work.  
